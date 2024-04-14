@@ -1,0 +1,15 @@
+{
+  "name": "phase1project",
+  "version": "1.0.0",
+
+  "description": "A fun and interactive meme-sharing platform where users can discover, like, comment, and upvote memes from a diverse collection of categories. Express yourself with hilarious and relatable content, engage with the community through comments, and vote for your favorite memes to see them rise to the top. Whether you're looking for a laugh or want to share your own creations, this app is the ultimate destination for meme enthusiasts."
+
+  ,"main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": ["javascript", "frontend", "library", "web development"]
+
+  ,"author": "Rocliff Kadaji",
+  "license": "MIT"
+}
