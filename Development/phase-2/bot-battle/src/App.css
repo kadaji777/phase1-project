@@ -1,0 +1,98 @@
+.app-container {
+  background: #f2f2f2;
+  color: #333;
+  padding: 20px;
+}
+
+.bot-collection {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.bot-card {
+  background: white;
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.bot-card:hover {
+  background: #e6e6e6;
+}
+
+.bot-avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.bot-info {
+  padding: 10px;
+}
+
+.bot-info h3 {
+  margin: 10px 0;
+}
+
+.your-bot-army {
+  background: #333;
+  color: white;
+  padding: 20px;
+}
+
+.bot-army-card {
+  background: #444;
+  padding: 10px;
+  border: 1px solid white;
+  margin-bottom: 10px;
+}
+
+.sort-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.sort-bar button {
+  background: #333;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.sort-bar button:hover {
+  background: #444;
+}
+
+.filter-classes {
+  display: flex;
+  flex-direction: column;
+}
+
+.bot-specs {
+  text-align: center;
+}
+
+.bot-specs-avatar {
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+}
+
+.bot-specs button {
+  background: #333;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.bot-specs button:hover {
+  background: #444;
+}
